@@ -83,12 +83,15 @@ router.get("/", async (req, res) => {
 
             const sid = *╭─〔 𝗤𝘶𝘦𝘦𝘯ₓ* ```THISHU``` *-𝗠𝗗 V1.0*
 *╰──────────────*
+╔
+   𝕎𝔼𝕃𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕐𝕆𝕌..🫂
+                          ╝
+> 𝚃𝙷𝙸𝚂 𝙸𝚂 𝚈𝙾𝚄𝚁 𝚂𝙴𝚂_𝚒𝚍👇
+* ${string_session}
 
-╭━━❰ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 ❱━━╮
-┃ ◈.🖥️ Bot Name: 𝗤𝗨𝗘𝗘𝗡 ```THISHU```-𝗠𝗗 V1.0
-┃ ◈. 🚀 Version: ```V1.0```
-┃ ◈. 😈 Owner: Chamod Mihiranga
-╰━━━━━━━━━━━━━━━━━╯/n/n`[The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*You can ask any question using this link*\n\n*wa.me/message/+94761480834*\n\n;
+━━━━━━❮☎️❯━━━━━━
+
+⚜.```https://Wa.me//+94703725271```;
             const mg = `🛑 *Do not share this code to anyone* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
